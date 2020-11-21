@@ -1,11 +1,9 @@
 # 1-Code-Refactor
 
-Homework assignment for CWRU Coding Bootcamp 
+First Homework assignment for CWRU Coding Bootcamp 
 
-Refactor initial code based on accessibility and other various criteria
+Task: To Refactor initial code based on accessibility, functionality, and readibility by other developers. 
 
-First round of edits 
-
--fixed SEO header link 
--added alt text to images
--added header, section, and footer class tags
+Deployed website available at: https://forgetfulmind.github.io/1-Code-Refactor/
+Repository available at: https://github.com/forgetfulmind/1-Code-Refactor.git
+Screengrab of deployed site: [a relative link](./Screengrab.jpg)
